@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eweheehe.github.io/DLX/sitemap_index.txt
+Sitemap: https://eweheehe.github.io/LKX/sitemap_index.txt
+Sitemap: https://eweheehe.github.io/fnj/sitemap_index.txt
+Sitemap: https://eweheehe.github.io/nOW/sitemap_index.txt
